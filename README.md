@@ -2,7 +2,7 @@
 
 ## Task 1:
 ### 1.1 Feauters:
-Forsinkelse
-Travelt
-Ledige plasser
-er_forsinket
+- Forsinkelse
+- Travelt
+- Ledige plasser
+- er_forsinket
